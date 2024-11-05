@@ -3,28 +3,28 @@
     "name": "Azure Service Bus",
     "ring": "adopt",
     "quadrant": "platforms",
-    "isNew": TRUE,
+    "isNew": "TRUE",
     "description": "Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other..."
   },
   {
     "name": "C",
     "ring": "assess",
     "quadrant": "languages & frameworks",
-    "isNew": TRUE,
+    "isNew": "TRUE",
     "description": "C is a general object-oriented programming (OOP) language for networking and Web development. C is specified as a common language infrastructure CLI language..."
   },
   {
     "name": "In-process messaging",
     "ring": "trial",
     "quadrant": "techniques",
-    "isNew": FALSE,
+    "isNew": "FALSE",
     "description": "exempel MediatorR..."
   },
   {
     "name": "Azure Data Factory",
     "ring": "hold",
     "quadrant": "tools",
-    "isNew": FALSE,
+    "isNew": "FALSE",
     "description": "Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring..."
   }
 ]
