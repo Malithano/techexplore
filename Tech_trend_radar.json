@@ -1,30 +1,30 @@
 [
   {
-    "name": "Composer",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "TRUE",
-    "description": "Although the idea of dependency management ..."
+    "name": "React",
+	"ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": FALSE,
+    "description": "A JavaScript library for building user interfaces..."
   },
   {
-    "name": "Canary builds",
+    "name": "C#",
+	"ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": FALSE,
+    "description": "C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language..."
+  },
+  {
+    "name": "In-process messaging",
     "ring": "trial",
     "quadrant": "techniques",
-    "isNew": "FALSE",
-    "description": "Many projects have external code dependencies ..."
+    "isNew": FALSE,
+    "description": "exempel MediatorR"
   },
   {
-    "name": "Apache Kylin",
-    "ring": "assess",
-    "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "Apache Kylin is an open source analytics solution ..."
-  },
-  {
-    "name": "JSF",
+    "name": "Azure Data Factory",
     "ring": "hold",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "We continue to see teams run into trouble using JSF ..."
+    "quadrant": "tools",
+    "isNew": FALSE,
+    "description": "Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF."
   }
 ]
