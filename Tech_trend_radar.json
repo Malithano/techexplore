@@ -1,16 +1,16 @@
 [
-    {
-      "name": "React",
-      "quadrant": "languages & frameworks",
-      "ring": "adopt",
-      "isNew": FALSE,
-      "description": "A JavaScript library for building user interfaces.",
-    },
-    {
-      "name": "C#",
-      "quadrant": "languages & frameworks",
-      "ring": "adopt",
-      "isNew": FALSE,
-      "description": "C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language."
-    }
+   {
+     "name": "React",
+     "ring": "adopt",
+     "quadrant": "languages & frameworks",
+     "isNew": FALSE,
+     "description": "A JavaScript library for building user interfaces.",
+   },
+   {
+     "name": "C#",
+     "ring": "adopt",  
+     "quadrant": "languages & frameworks",
+     "isNew": FALSE,
+     "description": "C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language."
+   }
 ]
