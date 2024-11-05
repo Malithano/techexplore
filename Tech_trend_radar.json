@@ -3,14 +3,14 @@
     "name": "Azure Service Bus",
     "ring": "adopt",
     "quadrant": "platforms",
-    "isNew": FALSE,
+    "isNew": TRUE,
     "description": "Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other..."
   },
   {
     "name": "C",
     "ring": "assess",
     "quadrant": "languages & frameworks",
-    "isNew": FALSE,
+    "isNew": TRUE,
     "description": "C is a general object-oriented programming (OOP) language for networking and Web development. C is specified as a common language infrastructure CLI language..."
   },
   {
