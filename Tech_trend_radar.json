@@ -1,0 +1,705 @@
+{
+  "title": "Example Radar",
+  "quadrants": ["Techniques", "Platforms", "Tools", "Languages and Frameworks"],
+  "rings": ["Adopt", "Trial", "Assess", "Hold"],
+  "blips": [
+    {
+      "name": "React",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://legacy.reactjs.org\">React description</a></strong>  A JavaScript library for building user interfaces.",
+	  "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+	  ]
+    },
+    {
+      "name": "C#",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.techopedia.com/definition/26272/c-sharp\">C# description</a></strong>C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language."
+    },
+    {
+      "name": "AngularJS",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://docs.angularjs.org/guide/introduction\">AngularJS description</a></strong><br /><br />AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology."
+    },
+    {
+      "name": ".NET Framework",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework\">.NET Framework description</a></strong>.NET Framework is a software development framework for building and running applications on Windows."
+    },
+    {
+      "name": "TypeScript",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.typescriptlang.org\">TypeScript description</a></strong>TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+    },
+    {
+      "name": "Bootstrap",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://getbootstrap.com/\">Bootstrap description</a></strong>Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins."
+    },
+    {
+      "name": "JavaScript",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.freecodecamp.org/news/what-is-javascript-definition-of-js/\">JavaScript description</a></strong>JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS."
+    },
+    {
+      "name": "CSS Modules",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.javascriptstuff.com/what-are-css-modules/\">CSS Modules description</a></strong>A CSS Module is a CSS file in which all class names and animation names are scoped locally by default."
+    },
+    {
+      "name": "Sass",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://sass-lang.com/\">Sass description</a></strong>Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself."
+    },
+    {
+      "name": "In-process messaging",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "? exempel MediatorR"
+    },
+    {
+      "name": "Exception-less error handling",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "? "
+    },
+    {
+      "name": "Resilient requests",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "Resilient http requests are customized request that can be scoped with various scenarios, such as: Retry, stop etc."
+    },
+    {
+      "name": "Fluent Validation",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://docs.fluentvalidation.net/en/latest/\">FluentValidation description</a></strong>FluentValidation is a .NET library for building strongly-typed validation rules."
+    },
+    {
+      "name": "SQL",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/cpp/data/odbc/sql?view=msvc-170\">SQL description</a></strong>SQL (Structured Query Language) is a way to communicate with a relational database that lets you define, query, modify, and control the data. Using SQL syntax, you can construct a statement that extracts records according to criteria you specify."
+    },
+    {
+      "name": "Python",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.python.org/\">Python description</a></strong>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
+    },
+    {
+      "name": "NodeJS",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Assess",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://nodejs.org/en\">NodeJS description</a></strong>Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts."
+    },
+    {
+      "name": ".NET 8",
+      "quadrant": "Platforms",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": ".NET 8 is classified as a Long-term Support (LTS) release, meaning Microsoft will continue to provide updates and extended support for it (up to three years). LTS releases are designed for stability and continuity, making them suitable for enterprise applications requiring long-term maintenance."
+    },
+    {
+      "name": ".NET 7",
+      "quadrant": "Platforms",
+      "ring": "Hold",
+      "isNew": false,
+      "description": ".NET 7 is nolonger supported from micrososft."
+    },
+    {
+      "name": "Databricks",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.databricks.com/\">Databricks description</a></strong>Databricks brings AI to your data to help you bring AI to the world."
+    },
+    {
+      "name": "Power Automate",
+      "quadrant": "Platforms",
+      "ring": "trial",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://make.powerautomate.com/environments/Default-c025fbcf-19d1-47cf-b34f-839d7240ca01/home\">Microsoft Power Automate description</a></strong>Microsoft Power Automate, previously known as Microsoft Flow until November 2019, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes. It is part of the Microsoft Power Platform line of products, which include Power Apps and Power BI."
+    },
+    {
+      "name": "Containerization",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://aws.amazon.com/what-is/containerization/\">Containerization description</a></strong>Containerization is a software deployment process that bundles an application’s code with all the files and libraries it needs to run on any infrastructure. Traditionally, to run any application on your computer, you had to install the version that matched your machine’s operating system. For example, you needed to install the Windows version of a software package on a Windows machine. However, with containerization, you can create a single software package, or container, that runs on all types of devices and operating systems. "
+    },
+    {
+      "name": "Lambda",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://aws.amazon.com/pm/lambda/?gclid=EAIaIQobChMIlOKF05O2iQMV1VORBR2-CC9UEAAYASAAEgJS3PD_BwE&trk=492e1a39-117b-410f-afd2-e13b1632de9d&sc_channel=ps&ef_id=EAIaIQobChMIlOKF05O2iQMV1VORBR2-CC9UEAAYASAAEgJS3PD_BwE:G:s&s_kwcid=AL!4422!3!651612776834!e!!g!!aws%20lambda!19835810525!147081599717\">Lambda description</a></strong> Run code without provisioning or managing servers, creating workload-aware cluster scaling logic, maintaining event integrations, or managing runtimes."
+    },
+    {
+      "name": "Cloudflare",
+      "quadrant": "Platforms",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.cloudflare.com/lp/ppc/overview-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_pure&utm_content=Alpha_Brand_Pure_Cloudflare&utm_term=cloudflare&campaignid=71700000112709382&adgroupid=58700008486475728&creativeid=662164914404&gad_source=1&gclid=EAIaIQobChMI-8r-iJi2iQMVkkeRBR3FPx8HEAAYASAAEgLD8vD_BwE&gclsrc=aw.ds\">cloudflare description</a></strong>Cloudflare is a global cloud platform designed to make everything you connect to the Internet secure, private, fast, and reliable."
+    },
+    {
+      "name": "Virtual Machines for Running Software",
+      "quadrant": "Platforms",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine\">Virtual Machines for Running Software description</a></strong>A virtual machine, commonly shortened to just VM, is no different than any other physical computer like a laptop, smart phone, or server. It has a CPU, memory, disks to store your files, and can connect to the internet if needed. While the parts that make up your computer (called hardware) are physical and tangible, VMs are often thought of as virtual computers or software-defined computers within physical servers, existing only as code."
+    },
+    {
+      "name": "Azure Functions",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp\">Azure Functions</a></strong>Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs. Instead of worrying about deploying and maintaining servers, the cloud infrastructure provides all the up-to-date resources needed to keep your applications running."
+    },
+    {
+      "name": "Windows Scheduled Tasks",
+      "quadrant": "Platforms",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "Task Scheduler is a built-in Windows utility that allows users to automate the execution of programs, scripts, and various tasks at specific intervals or specific events. It simplifies the process of running repetitive tasks, managing background processes, and scheduling maintenance activities on a computer."
+    },
+    {
+      "name": "Azure Service Bus",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview\">Azure Service Bus description</a></strong>Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other."
+    },
+    {
+      "name": "SQL Server",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Microsoft SQL Server is a relational database management system (RDBMS) that supports a wide variety of transaction processing, business intelligence (BI) and data analytics applications in corporate IT environments."
+    },
+    {
+      "name": "Azure Data Factory",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/azure/data-factory/\">Azure Data Factory description</a></strong>Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF."
+    },
+    {
+      "name": "SQL Server Analysis Services",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions\">SQL Server Analysis Services description</a></strong>Analysis Services is an analytical data engine (VertiPaq) used in decision support and business analytics. It provides enterprise-grade semantic data models for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualization tools."
+    },
+    {
+      "name": "SQL Server Reporting Services",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16\">SQL Server Reporting Services description</a></strong>SQL Server Reporting Services (SSRS) provides a set of on-premises tools and services to create, deploy, and manage paginated reports"
+    },
+    {
+      "name": "Snowflake",
+      "quadrant": "Platforms",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "<p><strong><a href=\"https://www.snowflake.com/en/emea/\">Snowflake description</a></strong>Snowflake is a cloud-based data warehousing solution designed to provide seamless data storage, integration, and analytics. It enables organizations to efficiently manage and analyze large volumes of structured and semi-structured data through a scalable and fully managed platform."
+    },
+    {
+      "name": "Backend for frontend pattern",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Backend for Frontend (BFF) is an effective solution for building composable architectures in software development. This pattern addresses the unique requirements of various client platforms, such as web, mobile, and IoT devices, while preserving the benefits of a microservices architecture.",
+      "links": [
+      {
+        "url": "https://bff-patterns.com/",
+        "title": "bff-patterns"
+      }
+	  ]
+	},
+    {
+      "name": "Anti-corruption layer pattern",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Implement a façade or adapter layer between different subsystems that don't share the same semantics. This layer translates requests that one subsystem makes to the other subsystem. Use this pattern to ensure that an application's design is not limited by dependencies on outside subsystems. This pattern was first described by Eric Evans in Domain-Driven Design.",
+	  "links": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer",
+        "title": "Anti-corruption"
+      }
+	  ]
+    },
+    {
+      "name": "Functions as a Service",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "FaaS is a serverless backend service allowing developers to write modular pieces of code on the fly that can be executed in response to certain events."
+    },
+    {
+      "name": "Asynchronous Integrations",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "Asynchronous Integration is integration where the data does not have to be moved immediately but can be moved at a later point in time. This means that the system sending a request doesn't have to wait for a reply in order to continue operating."
+    },
+    {
+      "name": "Restful API",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "REST is an acronym for REpresentational State Transfer and an architectural style for distributed hypermedia systems. Roy Fielding first presented it in 2000 in his famous dissertation. Since then it has become one of the most widely used approaches for building web-based APIs (Application Programming Interfaces)."
+    },
+    {
+      "name": "RPC over HTTP",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "RPC over HTTP (Remote Procedure Call over HTTP) is a protocol that allows a client on the Internet to connect securely to a Microsoft Exchange Server without having to log into a virtual private network (VPN) first."
+    },
+    {
+      "name": "Server-side MVC",
+      "quadrant": "Techniques",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "MVC is a design pattern used to decouple user-interface (view), data (model), and application logic (controller). This pattern helps to achieve separation of concerns."
+    },
+    {
+      "name": "Real user monitoring",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "Real user monitoring (RUM) is a passive monitoring technology that records all user interaction with a website or client interacting with a server or cloud-based application. Monitoring actual user interaction with a website or an application is important to operators to determine if users are being served quickly and without errors and, if not, which part of a business process is failing."
+    },
+    {
+      "name": "Trunk-based Development",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Trunk-Based Development is a key enabler of Continuous Integration and by extension Continuous Delivery. When individuals on a team are committing their changes to the trunk multiple times a day it becomes easy to satisfy the core requirement of Continuous Integration that all team members commit to trunk at least once every 24 hours. This ensures the codebase is always releasable on demand and helps to make Continuous Delivery a reality.",
+	  "links": [
+      {
+        "url": "https://trunkbaseddevelopment.com/",
+        "title": "Trunk-based Development"
+      }
+	  ]
+    },
+    {
+      "name": "Gitflow",
+      "quadrant": "Techniques",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches. Gitflow has fallen in popularity in favor of trunk-based workflows, which are now considered best practices for modern continuous software development and DevOps practices. Gitflow also can be challenging to use with CI/CD. This post details Gitflow for historical purposes.",
+	  "links": [
+      {
+        "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+        "title": "Gitflow"
+      }
+	  ]
+    },
+    {
+      "name": "Monorepo",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "A monorepo is a single repository containing multiple distinct projects, with well-defined relationships.",
+	  "links": [
+      {
+        "url": "https://monorepo.tools/#what-is-a-monorepo",
+        "title": "Monorepo"
+      }
+	  ]
+    },
+    {
+      "name": "Polyrepo",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Polyrepo, or poly-repository, involves splitting the codebase into multiple, smaller repositories, usually organized around specific services, libraries, or teams. This approach promotes modularity, allowing teams to work independently on their respective projects with dedicated repositories."
+    },
+    {
+      "name": "Microfrontends",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "The idea behind Micro Frontends is to think about a website or web app as a composition of features which are owned by independent teams. Each team has a distinct area of business or mission it cares about and specialises in. A team is cross functional and develops its features end-to-end, from database to user interface.",
+	  "links": [
+      {
+        "url": "https://micro-frontends.org/",
+        "title": "Microfrontends"
+      }
+	  ]
+    },
+    {
+      "name": "Microservices",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "In software engineering, a microservice architecture is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating through lightweight protocols.",
+	  "links": [
+      {
+        "url": "https://microservices.io/",
+        "title": "Microservices"
+      }
+	  ]
+    },
+    {
+      "name": "Block Element Modifier",
+      "quadrant": "Techniques",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "is a methodology that helps you to create reusable components and code sharing in front‑end development"
+    },
+    {
+      "name": "Star Schemas",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "In computing, the star schema or star model is the simplest style of data mart schema and is the approach most widely used to develop data warehouses and dimensional data marts. The star schema consists of one or more fact tables referencing any number of dimension tables. The star schema is an important special case of the snowflake schema, and is more effective for handling simpler queries."
+    },
+    {
+      "name": "Design System",
+      "quadrant": "Techniques",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "A design system is a comprehensive set of standards, documentation, and reusable components that guide the development of digital products within an organization. It serves as a single source of truth for designers and developers, ensuring consistency and efficiency across projects. A Design system may comprise, pattern and component libraries; style guides for font, color, spacing, component dimensions, and placement; design languages, coded components, brand languages, and documentation. Design Systems aid in digital product design and development of products such as mobile applications or websites. A design system serves as a reference to establish a common understanding between design, engineering, and product teams. This understanding ensures smooth communication and collaboration between different teams involved in designing and building a product, and ultimately results in a consistent user experience."
+    },
+    {
+      "name": "Azure Repos",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Azure Repos is a set of version control tools that you can use to manage your code. Whether your software project is large or small, using version control as soon as possible is a good idea."
+    },
+    {
+      "name": "Git",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Git is a distributed version control system that tracks versions of files. It is often used to control source code by programmers who are developing software collaboratively."
+    },
+    {
+      "name": "Azure Pipelines",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Azure Pipelines is a cloud-based solution by Microsoft that automatically builds and tests code projects. It supports all major languages and project types. Azure Pipelines combines continuous integration (CI) and continuous delivery (CD) to test, build, and deliver code to any destination."
+    },
+    {
+      "name": "TeamCity",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "TeamCity is a build management and continuous integration server from JetBrains. It was first released on October 2, 2006 and is commercial software and licensed under a proprietary license: a freemium license for up to 100 build configurations and three free Build Agent licenses are available. open-source projects may request a free license."
+    },
+    {
+      "name": "DynamoDB",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "DynamoDB is a serverless, NoSQL database service that allows you to develop modern applications at any scale. As a serverless database, you only pay for what you use and DynamoDB scales to zero, has no cold starts, no version upgrades, no maintenance windows, no patching, and no downtime maintenance."
+    },
+    {
+      "name": "Terraform",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Terraform is an infrastructure as code tool that lets you build, change, and version cloud and on-prem resources safely and efficiently."
+    },
+    {
+      "name": "Cake",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "CAKE's powerful performance marketing software will bring clarity to your marketing campaigns and empower you with the insights to make intelligent marketing decisions."
+    },
+    {
+      "name": "Eventbridge",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "Amazon EventBridge helps you build event-driven architectures on AWS. The eventBridge bus is a serverless event bus service that makes it possible to connect applications using data from a variety of sources, including AWS services, SaaS applications, and custom applications."
+    },
+    {
+      "name": "Amazon SNS",
+      "quadrant": "Tools",
+      "ring": "trial",
+      "isNew": false,
+      "description": "Amazon Simple Notification Service (Amazon SNS) is a notification service provided as part of Amazon Web Services since 2010. It provides a service for sending messages."
+    },
+    {
+      "name": "Cypress for End-to-End Testing",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "With Cypress, you can easily create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration builds."
+    },
+    {
+      "name": "React Testing Library",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "React Testing Library builds on top of DOM Testing Library by adding APIs for working with React components."
+    },
+    {
+      "name": "OpenAPI",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to HTTP APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. An OpenAPI definition can then be used by documentation generation tools to display the API, code generation tools to generate servers and clients in various programming languages, testing tools, and many other use cases.",
+	  "links": [
+      {
+        "url": "https://swagger.io/specification/",
+        "title": "OpenAPI"
+      }
+	  ]
+    },
+    {
+      "name": "FinalBuilder",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "FinalBuilder is an automated build and release management tool that makes it easy to define and maintain a reliable and repeatable build process."
+    },
+    {
+      "name": "Powershell",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models."
+    },
+    {
+      "name": "MongoDB",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "MongoDB is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database product, MongoDB utilizes JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and current versions are licensed under the Server Side Public License (SSPL). MongoDB is a member of the MACH Alliance."
+    },
+    {
+      "name": "Datadog",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Datadog is a cloud-based monitoring and analytics platform that helps companies keep their applications and services running smoothly. At its core, Datadog offers real-time monitoring of servers, databases, and numerous other tools and services across the IT infrastructure. It provides visibility into the performance of applications and enables businesses to detect issues before they affect users. Datadog collects, searches, and analyzes traces across fully distributed architectures, providing insights into IT operations and performance, which is critical for maintaining system health and efficiency."
+    },
+    {
+      "name": "CloudFormation",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "AWS CloudFormation is a service provided by Amazon Web Services (AWS) that enables users to model and manage infrastructure resources in an automated and secure manner. Using CloudFormation, developers can define and provision AWS infrastructure resources using a JSON- or YAML-formatted infrastructure as code template. The service was released on February 25, 2011."
+    },
+    {
+      "name": "Systems Manager",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "AWS Systems Manager is a secure end-to-end management solution for resources on AWS and in multicloud and hybrid environments."
+    },
+    {
+      "name": "Secrets Manager",
+      "quadrant": "Tools",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "AWS Secrets Manager allows you to rotate, manage, and retrieve database credentials, API keys, and other secrets through their lifecycle."
+    },
+    {
+      "name": "CloudFront",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Amazon CloudFront is a content delivery network (CDN) operated by Amazon Web Services. The content delivery network was created to provide a globally-distributed network of proxy servers to cache content, such as web videos or other bulky media, more locally to consumers, to improve access speed for downloading the content."
+    },
+    {
+      "name": "S3",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Amazon Simple Storage Service (S3) is a service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its e-commerce network. Amazon S3 can store any type of object, which allows uses like storage for Internet applications, backups, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. AWS launched Amazon S3 in the United States on March 14, 2006, then in Europe in November 2007."
+    },
+    {
+      "name": "MySQL",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "MySQL is an open-source relational database management system (RDBMS). Its name is a combination of \"My\", the name of co-founder Michael Widenius's daughter My, and \"SQL\", the initialism for Structured Query Language. A relational database organizes data into one or more data tables in which data may be related to each other; these relations help structure the data. SQL is a language that programmers use to create, modify and extract data from the relational database, as well as control user access to the database. In addition to relational databases and SQL, an RDBMS like MySQL works with an operating system to implement a relational database in a computer's storage system, manages users, allows for network access and facilitates testing database integrity and creation of backups."
+    },
+    {
+      "name": "Phrase",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "The Phrase Platform is the world’s most powerful, connective, and customizable localization platform. Cloud-based and AI-driven, it empowers organizations to provide customers with access to the content they need in the language they speak."
+    },
+    {
+      "name": "Redis",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Redis (Remote Dictionary Server) is a source-available, in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Because it holds all data in memory and because of its design, Redis offers low-latency reads and writes, making it particularly suitable for use cases that require a cache. Redis is the most popular NoSQL database, and one of the most popular databases overall. Redis is used in companies like Twitter, Airbnb, Tinder, Yahoo, Adobe, Hulu, Amazon and OpenAI."
+    },
+    {
+      "name": "Vite",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Vite is a blazing fast frontend build tool powering the next generation of web applications."
+    },
+    {
+      "name": "Next.js",
+      "quadrant": "Tools",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations."
+    },
+    {
+      "name": "KingswaySoft",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "Data Integration Solutions — Our SSIS Mail components can be integrated with virtually any application or database. Easily connect to an IMAP, POP3, Exchange Web Services, or SMTP mail server in SSIS. Cost Effective. Codeless integration. Unparalleled Performance. Simplify SSIS development."
+    },
+    {
+      "name": "vitest",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": " Component testing for Vue, React, Svelte, Lit, Marko and more. Out-of-the-box TypeScript JSX support. Workspace support. Chai built-in for assertions."
+    },
+    {
+      "name": "Storybook",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It's open source and free."
+    },
+    {
+      "name": "prettier",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary."
+    },
+    {
+      "name": "Gulp",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "A toolkit to automate & enhance your workflow. Leverage gulp and the flexibility of JavaScript to automate slow, repetitive workflows."
+    },
+    {
+      "name": "Selenium",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "Selenium is an open source umbrella project for a range of tools and libraries aimed at supporting browser automation. It provides a playback tool for authoring functional tests across most modern web browsers, without the need to learn a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including JavaScript (Node.js), C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala. Selenium runs on Windows, Linux, and macOS. It is open-source software released under the Apache License 2.0."
+    },
+    {
+      "name": "Amazon SQS",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Amazon SQS fully managed message queuing makes it easy to decouple and scale microservices, distributed systems, and serverless applications."
+    },
+    {
+      "name": "ESLint",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code. It was created by Nicholas C. Zakas in 2013. Rules in ESLint are configurable, and customized rules can be defined and loaded. ESLint covers both code quality and coding style issues. ESLint supports current standards of ECMAScript, and experimental syntax from drafts for future standards. Code using JSX or TypeScript can also be processed when a plugin or transpiler is used."
+    },
+    {
+      "name": "Azure AD B2C",
+      "quadrant": "Platforms",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Azure AD B2C is a customer identity access management (CIAM) solution capable of supporting millions of users and billions of authentications per day."
+    },
+    {
+      "name": "MyGet",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "MyGet is a Universal Package Manager that integrates with your existing source code ecosystem and enables end-to-end package management. Centralized package management delivers consistency and governance to your DevOps workflow."
+    },
+    {
+      "name": "Adobe Target",
+      "quadrant": "Tools",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "With Adobe Target, you get AI-powered testing, personalization and automation at scale, so you can find that one customer out of a million, and give them what they want."
+    },
+    {
+      "name": "PowerBI",
+      "quadrant": "Platforms",
+      "ring": "Adopt",
+      "isNew": false,
+      "description": "Microsoft Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn various sources of data into static and interactive data visualizations. Data may be input by reading directly from a database, webpage, PDF, or structured files such as spreadsheets, CSV, XML, JSON, XLSX, and SharePoint."
+    },
+    {
+      "name": "Looker Studio",
+      "quadrant": "Platforms",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "Looker Studio, formerly Google Data Studio, is an online tool for converting data into customizable, informative reports and dashboards. Looker Studio was announced by Google on March 15, 2016 as part of the enterprise Google Analytics 360 suite, and a free version was made available for individuals and small teams in May 2016."
+    },
+    {
+      "name": "Stylelint",
+      "quadrant": "Tools",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+    },
+    {
+      "name": "Big Query",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "BigQuery is a serverless, cost-effective, and multicloud data warehouse designed to help you turn big data into valuable business insights. Start free."
+    },
+    {
+      "name": "Use pseudo-URIs as primary identifier",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "isNew": false,
+      "description": "we need to find good descriptions oan references"
+    },
+    {
+      "name": "JQuery",
+      "quadrant": "Languages and Frameworks",
+      "ring": "Hold",
+      "isNew": false,
+      "description": "jQuery is a JavaScript Library. jQuery greatly simplifies JavaScript programming. jQuery is easy to learn. Start learning jQuery now."
+    }
+  ]
+}
