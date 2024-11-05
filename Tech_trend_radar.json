@@ -1,7 +1,7 @@
 [
   {
     "name": "Azure Service Bus",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "platforms",
     "isNew": FALSE,
     "description": "Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other..."
@@ -11,7 +11,7 @@
     "ring": "assess",
     "quadrant": "languages & frameworks",
     "isNew": FALSE,
-    "description": "C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language..."
+    "description": "C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure CLI language..."
   },
   {
     "name": "In-process messaging",
@@ -25,6 +25,6 @@
     "ring": "hold",
     "quadrant": "tools",
     "isNew": FALSE,
-    "description": "Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF..."
+    "description": "Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring..."
   }
 ]
