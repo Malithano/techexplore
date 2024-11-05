@@ -1,14 +1,14 @@
 [
   {
     "name": "React",
-	  "ring": "adopt",
+    "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": FALSE,
     "description": "<p><strong><a href=\"https://legacy.reactjs.org\">React description</a></strong>  A JavaScript library for building user interfaces.",
   },
   {
     "name": "C#",
-	  "ring": "adopt",
+    "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": FALSE,
     "description": "<p><strong><a href=\"https://www.techopedia.com/definition/26272/c-sharp\">C# description</a></strong>C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language."
