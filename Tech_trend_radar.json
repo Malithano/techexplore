@@ -7,11 +7,11 @@
     "description": "Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other..."
   },
   {
-    "name": "C",
+    "name": "C#",
     "ring": "assess",
     "quadrant": "languages & frameworks",
     "isNew": "TRUE",
-    "description": "C is a general object-oriented programming (OOP) language for networking and Web development. C is specified as a common language infrastructure CLI language..."
+    "description": "C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure CLI language..."
   },
   {
     "name": "In-process messaging",
