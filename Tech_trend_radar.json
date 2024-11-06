@@ -4,7 +4,7 @@
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://legacy.reactjs.org\">React description</a></strong>  A JavaScript library for building user interfaces.",
+    "description": "A JavaScript library for building user interfaces.",
     "links": 
     [
       {
@@ -18,56 +18,56 @@
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.techopedia.com/definition/26272/c-sharp\">C# description</a></strong>C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language."
+    "description": "C# is a general object-oriented programming (OOP) language for networking and Web development. C# is specified as a common language infrastructure (CLI) language."
   },
   {
     "name": "AngularJS",
     "quadrant": "languages & frameworks",
     "ring": "hold",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://docs.angularjs.org/guide/introduction\">AngularJS description</a></strong><br /><br />AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology."
+    "description": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology."
   },
   {
     "name": ".NET Framework",
     "quadrant": "languages & frameworks",
     "ring": "hold",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework\">.NET Framework description</a></strong>.NET Framework is a software development framework for building and running applications on Windows."
+    "description": ".NET Framework is a software development framework for building and running applications on Windows."
   },
   {
     "name": "TypeScript",
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.typescriptlang.org\">TypeScript description</a></strong>TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
   },
   {
     "name": "Bootstrap",
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://getbootstrap.com/\">Bootstrap description</a></strong>Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins."
+    "description": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins."
   },
   {
     "name": "JavaScript",
     "quadrant": "languages & frameworks",
     "ring": "hold",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.freecodecamp.org/news/what-is-javascript-definition-of-js/\">JavaScript description</a></strong>JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS."
+    "description": "JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS."
   },
   {
     "name": "CSS Modules",
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.javascriptstuff.com/what-are-css-modules/\">CSS Modules description</a></strong>A CSS Module is a CSS file in which all class names and animation names are scoped locally by default."
+    "description": "A CSS Module is a CSS file in which all class names and animation names are scoped locally by default."
   },
   {
     "name": "Sass",
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://sass-lang.com/\">Sass description</a></strong>Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself."
+    "description": "Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself."
   },
   {
     "name": "In-process messaging",
@@ -95,28 +95,28 @@
     "quadrant": "techniques",
     "ring": "trial",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://docs.fluentvalidation.net/en/latest/\">FluentValidation description</a></strong>FluentValidation is a .NET library for building strongly-typed validation rules."
+    "description": "FluentValidation is a .NET library for building strongly-typed validation rules."
   },
   {
     "name": "SQL",
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/cpp/data/odbc/sql?view=msvc-170\">SQL description</a></strong>SQL (Structured Query Language) is a way to communicate with a relational database that lets you define, query, modify, and control the data. Using SQL syntax, you can construct a statement that extracts records according to criteria you specify."
+    "description": "SQL (Structured Query Language) is a way to communicate with a relational database that lets you define, query, modify, and control the data. Using SQL syntax, you can construct a statement that extracts records according to criteria you specify."
   },
   {
     "name": "Python",
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.python.org/\">Python description</a></strong>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
+    "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
   },
   {
     "name": "NodeJS",
     "quadrant": "languages & frameworks",
     "ring": "assess",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://nodejs.org/en\">NodeJS description</a></strong>Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts."
+    "description": "Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts."
   },
   {
     "name": ".NET 8",
@@ -137,49 +137,49 @@
     "quadrant": "platforms",
     "ring": "trial",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.databricks.com/\">Databricks description</a></strong>Databricks brings AI to your data to help you bring AI to the world."
+    "description": "Databricks brings AI to your data to help you bring AI to the world."
   },
   {
     "name": "Power Automate",
     "quadrant": "platforms",
     "ring": "trial",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://make.powerautomate.com/environments/Default-c025fbcf-19d1-47cf-b34f-839d7240ca01/home\">Microsoft Power Automate description</a></strong>Microsoft Power Automate, previously known as Microsoft Flow until November 2019, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes. It is part of the Microsoft Power Platform line of products, which include Power Apps and Power BI."
+    "description": "Microsoft Power Automate, previously known as Microsoft Flow until November 2019, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes. It is part of the Microsoft Power Platform line of products, which include Power Apps and Power BI."
   },
   {
     "name": "Containerization",
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://aws.amazon.com/what-is/containerization/\">Containerization description</a></strong>Containerization is a software deployment process that bundles an application’s code with all the files and libraries it needs to run on any infrastructure. Traditionally, to run any application on your computer, you had to install the version that matched your machine’s operating system. For example, you needed to install the Windows version of a software package on a Windows machine. However, with containerization, you can create a single software package, or container, that runs on all types of devices and operating systems. "
+    "description": "Containerization is a software deployment process that bundles an application’s code with all the files and libraries it needs to run on any infrastructure. Traditionally, to run any application on your computer, you had to install the version that matched your machine’s operating system. For example, you needed to install the Windows version of a software package on a Windows machine. However, with containerization, you can create a single software package, or container, that runs on all types of devices and operating systems. "
   },
   {
     "name": "Lambda",
     "quadrant": "platforms",
     "ring": "trial",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://aws.amazon.com/pm/lambda/?gclid=EAIaIQobChMIlOKF05O2iQMV1VORBR2-CC9UEAAYASAAEgJS3PD_BwE&trk=492e1a39-117b-410f-afd2-e13b1632de9d&sc_channel=ps&ef_id=EAIaIQobChMIlOKF05O2iQMV1VORBR2-CC9UEAAYASAAEgJS3PD_BwE:G:s&s_kwcid=AL!4422!3!651612776834!e!!g!!aws%20lambda!19835810525!147081599717\">Lambda description</a></strong> Run code without provisioning or managing servers, creating workload-aware cluster scaling logic, maintaining event integrations, or managing runtimes."
+    "description": "Run code without provisioning or managing servers, creating workload-aware cluster scaling logic, maintaining event integrations, or managing runtimes."
   },
   {
     "name": "Cloudflare",
     "quadrant": "platforms",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.cloudflare.com/lp/ppc/overview-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-emea_en_all-umbrella-ge-ge-prospecting-sch_g_brand_alpha_pure&utm_content=Alpha_Brand_Pure_Cloudflare&utm_term=cloudflare&campaignid=71700000112709382&adgroupid=58700008486475728&creativeid=662164914404&gad_source=1&gclid=EAIaIQobChMI-8r-iJi2iQMVkkeRBR3FPx8HEAAYASAAEgLD8vD_BwE&gclsrc=aw.ds\">cloudflare description</a></strong>Cloudflare is a global cloud platform designed to make everything you connect to the Internet secure, private, fast, and reliable."
+    "description": "Cloudflare is a global cloud platform designed to make everything you connect to the Internet secure, private, fast, and reliable."
   },
   {
     "name": "Virtual Machines for Running Software",
     "quadrant": "platforms",
     "ring": "hold",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine\">Virtual Machines for Running Software description</a></strong>A virtual machine, commonly shortened to just VM, is no different than any other physical computer like a laptop, smart phone, or server. It has a CPU, memory, disks to store your files, and can connect to the internet if needed. While the parts that make up your computer (called hardware) are physical and tangible, VMs are often thought of as virtual computers or software-defined computers within physical servers, existing only as code."
+    "description": "A virtual machine, commonly shortened to just VM, is no different than any other physical computer like a laptop, smart phone, or server. It has a CPU, memory, disks to store your files, and can connect to the internet if needed. While the parts that make up your computer (called hardware) are physical and tangible, VMs are often thought of as virtual computers or software-defined computers within physical servers, existing only as code."
   },
   {
     "name": "Azure Functions",
     "quadrant": "platforms",
     "ring": "trial",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp\">Azure Functions</a></strong>Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs. Instead of worrying about deploying and maintaining servers, the cloud infrastructure provides all the up-to-date resources needed to keep your applications running."
+    "description": "Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs. Instead of worrying about deploying and maintaining servers, the cloud infrastructure provides all the up-to-date resources needed to keep your applications running."
   },
   {
     "name": "Windows Scheduled Tasks",
@@ -193,7 +193,7 @@
     "quadrant": "platforms",
     "ring": "trial",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview\">Azure Service Bus description</a></strong>Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other."
+    "description": "Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics. Service Bus is used to decouple applications and services from each other."
   },
   {
     "name": "SQL Server",
@@ -207,28 +207,28 @@
     "quadrant": "tools",
     "ring": "hold",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/azure/data-factory/\">Azure Data Factory description</a></strong>Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF."
+    "description": "Azure Data Factory description</a></strong>Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF."
   },
   {
     "name": "SQL Server Analysis Services",
     "quadrant": "tools",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions\">SQL Server Analysis Services description</a></strong>Analysis Services is an analytical data engine (VertiPaq) used in decision support and business analytics. It provides enterprise-grade semantic data models for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualization tools."
+    "description": "Analysis Services is an analytical data engine (VertiPaq) used in decision support and business analytics. It provides enterprise-grade semantic data models for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualization tools."
   },
   {
     "name": "SQL Server Reporting Services",
     "quadrant": "tools",
     "ring": "adopt",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16\">SQL Server Reporting Services description</a></strong>SQL Server Reporting Services (SSRS) provides a set of on-premises tools and services to create, deploy, and manage paginated reports"
+    "description": "SQL Server Reporting Services (SSRS) provides a set of on-premises tools and services to create, deploy, and manage paginated reports"
   },
   {
     "name": "Snowflake",
     "quadrant": "platforms",
     "ring": "hold",
     "isNew": "false",
-    "description": "<p><strong><a href=\"https://www.snowflake.com/en/emea/\">Snowflake description</a></strong>Snowflake is a cloud-based data warehousing solution designed to provide seamless data storage, integration, and analytics. It enables organizations to efficiently manage and analyze large volumes of structured and semi-structured data through a scalable and fully managed platform."
+    "description": "Snowflake is a cloud-based data warehousing solution designed to provide seamless data storage, integration, and analytics. It enables organizations to efficiently manage and analyze large volumes of structured and semi-structured data through a scalable and fully managed platform."
   },
   {
     "name": "Backend for frontend pattern",
