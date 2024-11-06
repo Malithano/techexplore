@@ -4,14 +4,7 @@
     "quadrant": "languages & frameworks",
     "ring": "adopt",
     "isNew": "false",
-    "description": "A JavaScript library for building user interfaces.",
-    "links": 
-    [
-      {
-        "url": "",
-        "title": ""
-      }
-    ]
+    "description": "A JavaScript library for building user interfaces."
   },
   {
     "name": "C#",
@@ -235,28 +228,14 @@
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "Backend for Frontend (BFF) is an effective solution for building composable architectures in software development. This pattern addresses the unique requirements of various client platforms, such as web, mobile, and IoT devices, while preserving the benefits of a microservices architecture.",
-    "links": 
-    [
-      {
-        "url": "https://bff-patterns.com/",
-        "title": "bff-patterns"
-      }
-    ]
+    "description": "Backend for Frontend (BFF) is an effective solution for building composable architectures in software development. This pattern addresses the unique requirements of various client platforms, such as web, mobile, and IoT devices, while preserving the benefits of a microservices architecture."
   },
   {
     "name": "Anti-corruption layer pattern",
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "Implement a façade or adapter layer between different subsystems that don't share the same semantics. This layer translates requests that one subsystem makes to the other subsystem. Use this pattern to ensure that an application's design is not limited by dependencies on outside subsystems. This pattern was first described by Eric Evans in Domain-Driven Design.",
-    "links":
-    [
-      {
-        "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer",
-        "title": "Anti-corruption"
-      }
-    ]
+    "description": "Implement a façade or adapter layer between different subsystems that don't share the same semantics. This layer translates requests that one subsystem makes to the other subsystem. Use this pattern to ensure that an application's design is not limited by dependencies on outside subsystems. This pattern was first described by Eric Evans in Domain-Driven Design."
   },
   {
     "name": "Functions as a Service",
@@ -305,42 +284,21 @@
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "Trunk-Based Development is a key enabler of Continuous Integration and by extension Continuous Delivery. When individuals on a team are committing their changes to the trunk multiple times a day it becomes easy to satisfy the core requirement of Continuous Integration that all team members commit to trunk at least once every 24 hours. This ensures the codebase is always releasable on demand and helps to make Continuous Delivery a reality.",
-    "links": 
-    [
-      {
-        "url": "https://trunkbaseddevelopment.com/",
-        "title": "Trunk-based Development"
-      }
-    ]
+    "description": "Trunk-Based Development is a key enabler of Continuous Integration and by extension Continuous Delivery. When individuals on a team are committing their changes to the trunk multiple times a day it becomes easy to satisfy the core requirement of Continuous Integration that all team members commit to trunk at least once every 24 hours. This ensures the codebase is always releasable on demand and helps to make Continuous Delivery a reality."
   },
   {
     "name": "Gitflow",
     "quadrant": "techniques",
     "ring": "hold",
     "isNew": "false",
-    "description": "Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches. Gitflow has fallen in popularity in favor of trunk-based workflows, which are now considered best practices for modern continuous software development and DevOps practices. Gitflow also can be challenging to use with CI/CD. This post details Gitflow for historical purposes.",
-    "links":
-    [
-      {
-        "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
-        "title": "Gitflow"
-      }
-    ]
+    "description": "Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches. Gitflow has fallen in popularity in favor of trunk-based workflows, which are now considered best practices for modern continuous software development and DevOps practices. Gitflow also can be challenging to use with CI/CD. This post details Gitflow for historical purposes."
   },
   {
     "name": "Monorepo",
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "A monorepo is a single repository containing multiple distinct projects, with well-defined relationships.",
-    "links": 
-    [
-      {
-        "url": "https://monorepo.tools/#what-is-a-monorepo",
-        "title": "Monorepo"
-      }
-    ]
+    "description": "A monorepo is a single repository containing multiple distinct projects, with well-defined relationships."
   },
   {
     "name": "Polyrepo",
@@ -354,28 +312,14 @@
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "The idea behind Micro Frontends is to think about a website or web app as a composition of features which are owned by independent teams. Each team has a distinct area of business or mission it cares about and specialises in. A team is cross functional and develops its features end-to-end, from database to user interface.",
-    "links": 
-    [
-      {
-        "url": "https://micro-frontends.org/",
-        "title": "Microfrontends"
-      }
-    ]
+    "description": "The idea behind Micro Frontends is to think about a website or web app as a composition of features which are owned by independent teams. Each team has a distinct area of business or mission it cares about and specialises in. A team is cross functional and develops its features end-to-end, from database to user interface."
   },
   {
     "name": "Microservices",
     "quadrant": "techniques",
     "ring": "adopt",
     "isNew": "false",
-    "description": "In software engineering, a microservice architecture is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating through lightweight protocols.",
-    "links": 
-    [
-      {
-        "url": "https://microservices.io/",
-        "title": "Microservices"
-      }
-    ]
+    "description": "In software engineering, a microservice architecture is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services, communicating through lightweight protocols."
   },
   {
     "name": "Block Element Modifier",
@@ -480,14 +424,7 @@
     "quadrant": "tools",
     "ring": "adopt",
     "isNew": "false",
-    "description": "The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to HTTP APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. An OpenAPI definition can then be used by documentation generation tools to display the API, code generation tools to generate servers and clients in various programming languages, testing tools, and many other use cases.",
-    "links": 
-    [
-      {
-        "url": "https://swagger.io/specification/",
-        "title": "OpenAPI"
-      }
-    ]
+    "description": "The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to HTTP APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. An OpenAPI definition can then be used by documentation generation tools to display the API, code generation tools to generate servers and clients in various programming languages, testing tools, and many other use cases."
   },
   {
     "name": "FinalBuilder",
